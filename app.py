@@ -4,6 +4,7 @@ import joblib
 import pandas as pd
 import numpy as np
 
+# Note aux utilisateurs :
 # Charger le modèle (Assurez-vous que le chemin est correct !)
 # Vous devez aussi recharger le scaler utilisé pour les colonnes numériques !
 # Pour simplifier, nous allons supposer que l'entraînement utilise un scaler simple.
